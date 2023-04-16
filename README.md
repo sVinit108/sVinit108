@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Vinit Sharma here</h1>
-<h3 align="center">A Passionate Python Developer, Machine learning & AWS enthusiastic</h3>
+<h3 align="center">A Passionate Python and Machine learning Developer & AWS enthusiastic</h3>
 
 
 <!--

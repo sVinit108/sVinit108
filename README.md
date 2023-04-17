@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, Vinit Sharma here</h1>
 <h3 align="center">A Passionate Python and Machine learning Developer & AWS enthusiastic</h3>
 
+## 🚀 About Me
+I'm Vinit, a Third Year(B.E. Computer Engineering) student at Thakur College Of Engineering and technology.
+
+
+skills:  
+- Python 
+- Machine Learning & Data Science
+
+Also familiar with  
+- AWS
+- MySQL
+- DevOps (Docker, Kubernetes, Jenkins)
+
 
 <!--
 **sVinit108/sVinit108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

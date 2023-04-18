@@ -15,6 +15,10 @@ Also familiar with
 - DevOps (Docker, Kubernetes, Jenkins)
 
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sVinit108&theme=merko&show_icons=true)](https://github.com/sVinit108)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sVinit108&left_color=black&right_color=GREEN)
+
 <!--
 **sVinit108/sVinit108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

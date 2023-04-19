@@ -10,9 +10,9 @@ skills:
 - Machine Learning & Data Science
 
 Also familiar with  
-- AWS
+- AWS (Basic knowledge of AWS services viz. EC2,VPC,S3,Sagemaker, RDS)
 - MySQL
-- DevOps (Docker, Kubernetes, Jenkins)
+- Docker, Kubernetes, Jenkins
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sVinit108&theme=merko&show_icons=true)](https://github.com/sVinit108)

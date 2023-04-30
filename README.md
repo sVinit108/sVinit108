@@ -13,6 +13,7 @@ Also familiar with
 - AWS (Basic knowledge of AWS services viz. EC2,VPC,S3,Sagemaker, RDS)
 - MySQL
 - Docker, Kubernetes, Jenkins
+- Web Development (Currently Learning)
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sVinit108&theme=merko&show_icons=true)](https://github.com/sVinit108)

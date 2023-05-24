@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Vinit Sharma here</h1>
-<h3 align="center">A Passionate Python and Machine learning Developer & AWS enthusiastic</h3>
+<h3 align="center">A Passionate Python and ML Developer & AWS enthusiastic</h3>
 
 ## 🚀 About Me
 I'm Vinit, a Third Year(B.E. Computer Engineering) student at Thakur College Of Engineering and technology.
@@ -8,11 +8,11 @@ I'm Vinit, a Third Year(B.E. Computer Engineering) student at Thakur College Of 
 skills:  
 - Python 
 - Machine Learning & Data Science
+- Tableau
 
 Also familiar with  
 - AWS (Basic knowledge of AWS services viz. EC2,VPC,S3,Sagemaker, RDS)
 - MySQL
-- Docker, Kubernetes, Jenkins
 - Web Development (Currently Learning)
 
 

@@ -8,7 +8,7 @@ I'm Vinit, a Third Year(B.E. Computer Engineering) student at Thakur College Of 
 Skills:  
 - Python 
 - Machine Learning & Data Science
-- Tableau
+- Tableau | Data Visualization
 
 Also familiar with  
 - AWS (Basic knowledge of AWS services viz. EC2,VPC,S3,Sagemaker, RDS)

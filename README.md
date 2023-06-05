@@ -5,7 +5,7 @@
 I'm Vinit, a Third Year(B.E. Computer Engineering) student at Thakur College Of Engineering and technology.
 
 
-skills:  
+Skills:  
 - Python 
 - Machine Learning & Data Science
 - Tableau

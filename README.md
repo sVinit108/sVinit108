@@ -7,7 +7,8 @@ I'm Vinit, a Third Year(B.E. Computer Engineering) student at Thakur College Of 
 
 Skills:  
 - Python 
-- Machine Learning Data Science
+- Machine Learning 
+- Data Analytics
 - Tableau | Data Visualization
 
 Also familiar with  

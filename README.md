@@ -12,7 +12,7 @@ Skills:
 - Tableau | Data Visualization
 
 Also familiar with  
-- AWS (Basic knowledge of AWS services viz. EC2,VPC,S3,Sagemaker, Glue)
+- AWS (Basic knowledge of AWS services viz. EC2,VPC,S3,Sagemaker, Glue, Athena)
 - MySQL
 - Docker
 

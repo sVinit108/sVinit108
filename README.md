@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Python and ML Developer & AWS enthusiastic</h3>
 
 ## 🚀 About Me
-I'm Vinit, a Third Year(B.E. Computer Engineering) student at Thakur College Of Engineering and technology.
+I'm Vinit, a Fourth Year(B.E. Computer Engineering) student at Thakur College Of Engineering and technology.
 
 
 Skills:  

@@ -10,6 +10,7 @@ Skills:
 - Machine Learning 
 - Data Analytics
 - Tableau | Data Visualization
+- Flutter (Currently Learning)
 
 Also familiar with  
 - AWS (Basic knowledge of AWS services viz. EC2,VPC,S3,Sagemaker, Glue, Athena)

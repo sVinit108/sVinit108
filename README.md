@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Python and ML Developer & AWS enthusiastic</h3>
 
 ## 🚀 About Me
-I'm Vinit, a Fourth Year Computer Engineering student @ TCET, Mumbai.
+I'm Vinit, a First year Mtech (AI&DS) student @VJTI
 
 
 Skills:  

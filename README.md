@@ -2,15 +2,15 @@
 <h3 align="center">A Passionate Python and ML Developer & AWS enthusiastic</h3>
 
 ## 🚀 About Me
-I'm Vinit, a First year Mtech (AI&DS) student @VJTI
+I'm Vinit, a Second year Mtech (AI&DS) student @VJTI
 
 
 Skills:  
-- Python 
-- Machine Learning 
+- Python
+- Artificial Intelligence
+- Quantum Computing
 - Data Analytics
 - Tableau | Data Visualization
-- Flutter (Currently Learning)
 
 Also familiar with  
 - AWS (Basic knowledge of AWS services viz. EC2,VPC,S3,Sagemaker, Glue, Athena)

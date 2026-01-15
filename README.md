@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinit Sharma</h1>
+<h1 align="center">Hey there 👋, I'm Vinit Sharma</h1>
 <h3 align="center">
 M.Tech (AI & Data Science) @ VJTI · AI/ML Researcher · LLM & Quantum ML Enthusiast
 </h3>

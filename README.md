@@ -23,7 +23,8 @@ I am actively preparing for **PhD programs in AI / ML**, with research interests
 ## 🔬 Current Work
 
 - **M.Tech Thesis**: Multilingual, end-to-end FIR automation using ASR, LLMs, and RAG-based legal reasoning (in collaboration with Mumbai Police)
-- **Research**: Quantum-based enhanced transformer architectures (manuscript under peer review)
+- **Research**: Hybrid-QUANTUM Vision Language Model. (manuscript under preparation)
+- Previous research work - Quantum-based enhanced transformer architectures (manuscript under review). 
 - **Teaching Assistant**: Undergraduate Machine Learning laboratory courses at VJTI
 
 ---

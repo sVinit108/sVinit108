@@ -85,9 +85,3 @@ I'm always happy to connect with researchers, developers, and students working o
 - 📧 Email: vdsharma_m24@ce.vjti.ac.in
 
 ---
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sVinit108&show_icons=true&theme=merko)](https://github.com/sVinit108)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sVinit108&layout=compact&theme=merko)](https://github.com/sVinit108)

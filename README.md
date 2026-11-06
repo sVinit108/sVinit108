@@ -4,7 +4,7 @@
 Quantum Machine Learning · Multimodal AI · Large Language Models
 </h3>
 
----
+----
 
 ## 🧠 About Me
 

@@ -1,80 +1,61 @@
 <h1 align="center">Hey there 👋, I'm Vinit Sharma</h1>
 
 <h3 align="center">
-AI Researcher · Large Language Models · Multimodal AI · Quantum Machine Learning
+Quantum Machine Learning · Multimodal AI · Large Language Models
 </h3>
 
 ---
 
 ## 🧠 About Me
 
-I recently completed my **M.Tech in Artificial Intelligence & Data Science from VJTI, Mumbai**, where my work focused on building practical AI systems while pursuing research in modern machine learning.
+I completed my **M.Tech in Computer Engineering (AI & Data Science) at VJTI, Mumbai** in 2026, and I'm now **preparing for PhD applications**. During the M.Tech I worked as a research assistant at VJTI's Center of Excellence in AI, where I split my time between building practical AI systems and doing research in hybrid quantum-classical machine learning.
 
-My interests lie in **Large Language Models (LLMs), Multimodal AI, Computer Vision, Natural Language Processing (NLP), Agentic AI, and Quantum Machine Learning**. I enjoy working on problems that combine research with real-world deployment, particularly in domains where AI can improve public services and decision-making.
+My main research question right now is where a small parameterized quantum circuit actually helps a neural network, and how to test that against carefully matched classical baselines. I've put quantum modules into a language model, a vision-language model and a diffusion model, and I want to understand why they help in some settings and not in others.
 
-I'm always interested in exploring new ideas, collaborating on research, and building intelligent systems that are both useful and scalable.
+I also like work that ends up deployed, especially where AI can improve public services.
 
 ---
 
-## 🔬 Research & Projects
+## 🔬 Research
 
-- **FIR Automation System** – Built and deployed a multilingual FIR automation system using a fine-tuned LLM, currently in pilot use at **Sion Police Station (Zone IV, Mumbai Police)**. The system performs offline statement processing, FIR generation, summarization, and legal section prediction.
-- **Hybrid Quantum Vision Language Model (Hybrid-QVLM)** – Research on integrating quantum-enhanced visual feature extraction with vision-language models.
-- **Quantum-Based Enhanced Transformer (QBET)** – Proposed a hybrid quantum-classical transformer architecture for efficient language modelling.
-- **Document Intelligence Platform** – Developing an offline document understanding system using local LLMs for OCR, information extraction, semantic search, and question answering over multimodal documents.
-- **ScratchLLM** – Implemented a GPT-style transformer from scratch to better understand language model architecture and training.
+- **QBET: Quantum Based Enhanced Transformer for Efficient Language Modeling** – Hybrid quantum-classical transformer with position-aware quantum mixing, sparse attention and a mixture-of-experts layer. **Published in *Evolving Systems* (Springer), 2026.** [DOI: 10.1007/s12530-026-09890-2](https://doi.org/10.1007/s12530-026-09890-2)
+- **Hybrid-QVLM** – Quantum-classical vision-language model that combines a quantum convolutional vision encoder with position-aware quantum mixing for language. *Under review, IEEE Transactions on Emerging Topics in Computing.*
+- **HQ-UNet** – Hybrid quantum-classical diffusion model with a time-conditioned quantum circuit at the U-Net bottleneck, evaluated across six image datasets and tested under simulated readout noise. *Submitted, IEEE Transactions on Emerging Topics in Computational Intelligence.*
+- **Currently exploring** – Using a single shared quantum circuit as the latent core for multimodal generation, with controlled comparisons against matched classical models.
+
+## 🛠️ Projects
+
+- **FIR Automation System** (M.Tech thesis) – Built and deployed a multilingual FIR automation system using a fine-tuned LLM, pilot-tested at **Sion Police Station (Zone IV, Mumbai Police)**. It captures statements live, generates and summarizes FIRs, and predicts BNS sections in Marathi, with fully offline, on-premise deployment.
+- **Document Intelligence Platform** – Offline document understanding with local LLMs for OCR, information extraction, semantic search and question answering over multimodal documents.
+- **ScratchLLM** – A GPT-style transformer implemented from scratch to understand language model architecture and training.
 
 ---
 
 ## 📚 Research Interests
 
-- Large Language Models (LLMs)
-- Multimodal AI
-- Computer Vision
-- Natural Language Processing (NLP)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
 - Quantum Machine Learning
+- Multimodal and Generative AI (VLMs, diffusion models)
+- Large Language Models and efficient inference
+- Natural Language Processing
+- Retrieval-Augmented Generation (RAG)
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Frameworks
-- Python
-- PyTorch
-- Hugging Face Transformers
-- LangChain
-- Qiskit
+**ML & Deep Learning:** Python, PyTorch, Hugging Face Transformers, LLMs and VLMs, Diffusion Models, Mixture-of-Experts, LoRA / QLoRA, RAG (vector search, cross-encoder reranking), LangChain
 
-### AI & Machine Learning
-- Large Language Models (LLMs)
-- Vision Language Models (VLMs)
-- Computer Vision
-- Multilingual NLP
-- Retrieval-Augmented Generation (RAG)
-- LoRA / QLoRA
-- Fine-tuning & Inference
-- Vector Search & Cross-Encoder Reranking
+**Quantum ML:** Variational Quantum Circuits, Hybrid Quantum-Classical Models, TorchQuantum, Qiskit
 
-### Tools & Platforms
-- Docker
-- AWS (EC2, S3, SageMaker, Glue, Athena)
-- MySQL
-- Git & GitHub
-- Tableau
+**Tools & Platforms:** Docker, AWS (EC2, S3, SageMaker, Glue, Athena), MySQL, Git & GitHub, Tableau
 
-### Mathematical Foundations
-- Linear Algebra
-- Probability & Statistics
-- Optimization
-- Quantum Computing Fundamentals
+**Foundations:** Linear Algebra, Probability & Statistics, Optimization, Quantum Computing
 
 ---
 
 ## 🤝 Collaboration
 
-I'm always happy to connect with researchers, developers, and students working on AI, machine learning, or quantum computing. If you're building something interesting or would like to collaborate, feel free to reach out.
+I'm happy to connect with researchers and students working on quantum machine learning, multimodal AI or efficient models. If you're working on something related or have questions about my papers, feel free to reach out.
 
 ---
 
@@ -83,5 +64,3 @@ I'm always happy to connect with researchers, developers, and students working o
 - 💼 LinkedIn: https://www.linkedin.com/in/vinit-sharma-82460a217
 - 🧠 GitHub: https://github.com/sVinit108
 - 📧 Email: vdsharma_m24@ce.vjti.ac.in
-
----

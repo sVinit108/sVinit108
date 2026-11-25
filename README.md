@@ -18,8 +18,8 @@ I also like work that ends up deployed, especially where AI can improve public s
 
 ## 🔬 Research
 
-- **QBET: Quantum Based Enhanced Transformer for Efficient Language Modeling** – Hybrid quantum-classical transformer with position-aware quantum mixing, sparse attention and a mixture-of-experts layer. **Published in *Evolving Systems* (Springer), 2026.** [DOI: 10.1007/s12530-026-09890-2](https://doi.org/10.1007/s12530-026-09890-2)
-- **Hybrid-QVLM** – Quantum-classical vision-language model that combines a quantum convolutional vision encoder with position-aware quantum mixing for language. *Under review, IEEE Transactions on Emerging Topics in Computing.*
+- **QBET: Quantum Based Enhanced Transformer for Efficient Language Modeling** – Hybrid quantum-classical transformer with position-aware quantum mixing, sparse attention and a mixture-of-experts layer. *Published in Evolving Systems, Springer Nature, 2026.* [DOI: 10.1007/s12530-026-09890-2](https://doi.org/10.1007/s12530-026-09890-2)
+- **Hybrid-QVLM** – Quantum-classical vision-language model that combines a quantum convolutional vision encoder with position-aware quantum mixing for language. *Under review, Quantum Machine Intelligence, Springer Nature.*
 - **HQ-UNet** – Hybrid quantum-classical diffusion model with a time-conditioned quantum circuit at the U-Net bottleneck, evaluated across six image datasets and tested under simulated readout noise. *Submitted, IEEE Transactions on Emerging Topics in Computational Intelligence.*
 - **Currently exploring** – Using a single shared quantum circuit as the latent core for multimodal generation, with controlled comparisons against matched classical models.
 
